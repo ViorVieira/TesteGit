@@ -2,3 +2,13 @@
     margin: 0;
     padding: 0;
 }
+
+Body{
+    background-color: rgb(98, 98, 175);
+}
+
+.tituloC{
+    color: rgb(159, 167, 173);
+    text-align: center;
+    position: relative; top: 8vh;
+}
